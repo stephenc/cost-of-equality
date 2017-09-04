@@ -1,0 +1,14 @@
+# IntelliJ project files 
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# eclipse project file
+.metadata
+.settings/
+.classpath
+.project
+build/
+.factorypath
+.fbExcludeFilterFile
